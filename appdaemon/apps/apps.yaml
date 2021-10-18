@@ -1,0 +1,3 @@
+Xiaomi_Scale:
+  module: Xiaomi_Scale
+  class: xiaomiscale
